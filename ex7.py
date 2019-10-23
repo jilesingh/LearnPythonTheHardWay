@@ -1,4 +1,5 @@
 # -*- coding utf-8 -*-
+# This code is written and run using Python Version 3.6.8
 
 print ("Marry had a little lamb.")
 print ("Its fleece was white as %s." % 'snow')
@@ -23,3 +24,14 @@ end12 = "r"
 
 print (end1 + end2 + end3 + end4 + end5 + end6)
 print (end7 + end8 + end9 + end10+ end11+ end12)
+
+# Here is output as observed from the terminal:
+print ("""
+Marry had a little lamb.
+Its fleece was white as snow.
+And everywhere that Mary went.
+........................................
+Cheese
+Burger
+
+""")

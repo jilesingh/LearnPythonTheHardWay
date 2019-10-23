@@ -1,4 +1,5 @@
 # -*- coding utf-8 -*-
+# This code is written and run using Python Version 3.6.8
 
 x = ("There are %d type of people." % 10) # this is initializing x
 binary = 'binary' # definng binary as a string
@@ -19,4 +20,13 @@ w = "This the left side of....."
 e = "a string with a right side."
 
 print (w + e)
+
+# Here is output as observed from the terminal:
+print ("""There are 10 type of people.
+Those who know binary and those who don't.
+I said: 'There are 10 type of people.'.
+I also said: 'Those who know binary and those who don't.'.
+Isn't that joke so funny?! False
+This the left side of.....a string with a right side.
+""")
 

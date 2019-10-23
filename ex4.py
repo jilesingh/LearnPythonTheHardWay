@@ -1,4 +1,5 @@
 # -*- coding utf-8 -*-
+# This code is written and run using Python Version 3.6.8
 
 cars = 100 # number of cars have been assigned here
 space_in_a_car = 4.0 # space ina car has been assigned
@@ -14,3 +15,12 @@ print ("There are only", drivers, "available.")
 print ("We can transport", carpool_capacity, "people today.")
 print ("we have", passengers, "to carpool today.")
 print ("We need to put about", average_passengers_per_car, "in each car.")
+
+
+# Here is output as observed from the terminal:
+
+print ("""There are 100 cars available.
+There are only 30 available.
+We can transport 120.0 people today.
+we have 90 to carpool today.
+We need to put about 3.0 in each car.""")
