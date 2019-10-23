@@ -11,14 +11,16 @@ print ('I "said" do not touch this.')
 print ("I want to push my project to git.")
 
 
-#Here is the output observed from the terminal:
-# Hello World!
-# Hello again!
-# I like typing this.
-# This is fun.
-# Yay1 Printing.
-# I'd much rather you not.
-# I "said" do not touch this.
-# I want to push my project to git.
-# I want to check weather it has been pushed or not.
- 
+
+# Here is output as observed from the terminal:
+print ("""
+Hello World!
+Hello again!
+I like typing this.
+This is fun.
+Yay1 Printing.
+I'd much rather you not.
+I "said" do not touch this.
+I want to push my project to git.
+I want to check weather it has been pushed or not.
+ """)
