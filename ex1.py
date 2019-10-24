@@ -13,8 +13,7 @@ print ("I want to push my project to git.")
 
 
 # Here is output as observed from the terminal:
-print ("""
-Hello World!
+'''Hello World!
 Hello again!
 I like typing this.
 This is fun.
@@ -23,4 +22,4 @@ I'd much rather you not.
 I "said" do not touch this.
 I want to push my project to git.
 I want to check weather it has been pushed or not.
- """)
+'''
