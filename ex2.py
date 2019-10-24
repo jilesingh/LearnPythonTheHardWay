@@ -14,7 +14,5 @@ print ("I could have code like this.")  # and the comment after this is ignored
 print("This will run.")
 
 # Here is the output as observed from the terminal:
-print ("""
-I could have code like this.
-This will run.
-""")
+'''I could have code like this.
+This will run.'''

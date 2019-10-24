@@ -15,11 +15,10 @@ print (formatter %(
 ))
 
 # Here is output as observed from the terminal:
-print ("""
-1 2 3 4
+
+'''1 2 3 4
 'one' 'two' 'three' 'four'
 True False True False
 '%r %r %r %r' '%r %r %r %r' '%r %r %r %r' '%r %r %r %r'
 'I had this thing' 'That you could type up right' "But it didn't sing" 'So I said goodnight'
-
-""")
+'''

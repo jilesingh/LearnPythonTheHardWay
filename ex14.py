@@ -24,19 +24,16 @@ and You have a %r computer. Nice
 """ % (likes, lives, computer))
 
 # Here is output as observed from the terminal:
-print ("""
-Hi Abhimanyu, I'm ex14.py script.
+'''Hi jile, I'm ex14.py script.
 I would like to ask you a few questions.
-Do you like me Abhimanyu?
--->>Yes ofcourse
-Where do you live Abhimanyu?
--->>Paris
+Do you like me jile?
+-->>no
+Where do you live jile?
+-->>Berlin
 what kind of computer do you have?
--->>my fucking old HP :(
+-->>Hp
  
-Alright, so you said 'Yes ofcourse' about liking me.
-You live in 'Paris'. Not sure where that is.
-and You have a 'my fucking old HP :(' computer. Nice
-
-""")
-
+Alright, so you said 'no' about liking me.
+You live in 'Berlin'. Not sure where that is.
+and You have a 'Hp' computer. Nice
+'''

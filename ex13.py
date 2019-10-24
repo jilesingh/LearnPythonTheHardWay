@@ -12,8 +12,7 @@ print ("Your third variable is:", third)
 
 # Here is output as observed from the terminal:
 #You can passon different values as arguements
-print ("""The script is called: ex13.py
-your first variable is: first
-Your second variable is: second
-Your third variable is: third
-""")
+# The script is called: ex13.py
+# your first variable is: first
+# Your second variable is: second
+# Your third variable is: third
