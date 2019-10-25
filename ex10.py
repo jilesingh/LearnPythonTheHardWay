@@ -17,13 +17,12 @@ print (backslash_cat)
 print (fat_cat)
 
 
-# while True:
-#     for i in ["/", "-", "|", "\\", "|"]:
-#         print ("%s\r" % i)
+
 
 # Here is output as observed from the terminal:
 
-'''I'm tabbed in.
+'''
+I'm tabbed in.
 I'm split
 on a line.
 I'm \ a \ cat.
@@ -32,4 +31,5 @@ I'll do a list:
 	* Cat food
 	* Fishes
 	* Catnip
-	* Grass'''
+	* Grass
+'''
