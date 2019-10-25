@@ -1,2 +1,2 @@
 # LearnPythonTheHardWay
-This repository contains bassics of python.
+This repository contains basics of python.
