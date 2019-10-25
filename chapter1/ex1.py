@@ -13,7 +13,8 @@ print ("I want to push my project to git.")
 
 
 # Here is output as observed from the terminal:
-'''Hello World!
+'''
+Hello World!
 Hello again!
 I like typing this.
 This is fun.
