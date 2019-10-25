@@ -33,8 +33,10 @@ target.write("\n")
 print("And finally we close it.")
 target.close()
 
+
 # Here is the output we get from the console
-'''We are going to erase 'ex15.txt'.
+'''
+We are going to erase 'ex15.txt'.
 If you don't want that, hit CTRL+C
 If you do want that, hit Return
 ?
@@ -45,5 +47,6 @@ line1: Weather the file was erased really
 line2: This is agin to test your programming skills
 line3: Now it will be written agin to the file
 I'm going to write these to the file.
-And finally we close it.'''
+And finally we close it.
+'''
 

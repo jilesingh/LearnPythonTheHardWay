@@ -29,9 +29,10 @@ print ("Is it less or equal?", 5 <= -2)
 
 print (float(2 + 3 - 4 + 5 % 4 - 3 * 5 + 58 / 8))
 
-# Here is output as observed from the terminal:
 
-'''I will now count my chickens:
+# Here is output as observed from the terminal:
+'''
+I will now count my chickens:
 Hens 30.0
 Roasters 97
 Now I will count the eggs:
@@ -45,4 +46,5 @@ How about some more.
 Is it greater? True
 Is it greater or equal? True
 Is it less or equal? False
--5.75'''
+-5.75
+'''

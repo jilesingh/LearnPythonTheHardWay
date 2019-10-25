@@ -28,8 +28,10 @@ print ("Alright, all done.")
 out_file.close()
 in_file.close()
 
+
 # Output can be seen from the console as:
-'''Copying from test.txt to new_file.txt
+'''
+Copying from test.txt to new_file.txt
 The input file is 21 bytes long 
 Does the output file exists? False
 Ready hit enter to continue, CTRL+C to abort.

@@ -24,6 +24,7 @@ print_two_again("Jile", "Singh")
 print_one("Jile!")
 print_none()
 
+
 # We got the output from the console like this:
 '''
 arg1: 'Jile', arg2: 'Singh'

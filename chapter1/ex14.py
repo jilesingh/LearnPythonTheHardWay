@@ -23,8 +23,10 @@ You live in %r. Not sure where that is.
 and You have a %r computer. Nice
 """ % (likes, lives, computer))
 
+
 # Here is output as observed from the terminal:
-'''Hi jile, I'm ex14.py script.
+'''
+Hi jile, I'm ex14.py script.
 I would like to ask you a few questions.
 Do you like me jile?
 -->>no

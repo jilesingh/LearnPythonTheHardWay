@@ -14,9 +14,10 @@ print (formatter %(
     "So I said goodnight"
 ))
 
-# Here is output as observed from the terminal:
 
-'''1 2 3 4
+# Here is output as observed from the terminal:
+'''
+1 2 3 4
 'one' 'two' 'three' 'four'
 True False True False
 '%r %r %r %r' '%r %r %r %r' '%r %r %r %r' '%r %r %r %r'

@@ -21,8 +21,10 @@ e = "a string with a right side."
 
 print (w + e)
 
+
 # Here is output as observed from the terminal:
-'''There are 10 type of people.
+'''
+There are 10 type of people.
 Those who know binary and those who don't.
 I said: 'There are 10 type of people.'.
 I also said: 'Those who know binary and those who don't.'.

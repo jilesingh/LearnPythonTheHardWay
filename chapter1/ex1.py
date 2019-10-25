@@ -11,7 +11,6 @@ print ('I "said" do not touch this.')
 print ("I want to push my project to git.")
 
 
-
 # Here is output as observed from the terminal:
 '''
 Hello World!

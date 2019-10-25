@@ -17,10 +17,7 @@ print (backslash_cat)
 print (fat_cat)
 
 
-
-
 # Here is output as observed from the terminal:
-
 '''
 I'm tabbed in.
 I'm split

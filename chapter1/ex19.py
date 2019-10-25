@@ -23,6 +23,7 @@ cheese_and_crackers(10 + 20, 5 + 6) # doing math inside function calling
 print ("And we can combine the two variables and the math")
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000) # inside function combining variables and math
 
+
 # We get the output from the console as:
 '''
 We can just give the numbers to function directly:
@@ -48,5 +49,4 @@ You have 110 cheese
 You have 1050 boxes of crackers.
 Man that's enough for a party!
 Get a blanket.
-
 '''

@@ -17,9 +17,10 @@ txt_again = open(file_again)
 
 print (txt_again.read())
 
-# Here is output as observed from the terminal:
 
-'''Here's your file 'ex15.txt':
+# Here is output as observed from the terminal:
+'''
+Here's your file 'ex15.txt':
 Hallo Wolrd1
 This is the test file to check whether I can write from Terminal or not
 Once I learn Coding with Python I will give a big party to Abhimanyu.

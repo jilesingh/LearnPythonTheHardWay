@@ -16,9 +16,10 @@ We'll be able to type as much as we like.
 Even 4 lines if we want or 5 or 6 or as many as we want......
 """)
 
-# Here is output as observed from the terminal:
 
-'''Here are days: Mon Tue Wed Thu Fri Sat Sun
+# Here is output as observed from the terminal:
+'''
+Here are days: Mon Tue Wed Thu Fri Sat Sun
 Here are the months: 
 Jan
 Feb
