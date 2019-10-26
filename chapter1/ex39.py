@@ -95,5 +95,4 @@ Michigan state is abbreviated MI and has city Detroit
 ----------------------------------------
 Sorry, no Texas
 The city for the state 'TX' is: Does Not Exist
-
 '''
