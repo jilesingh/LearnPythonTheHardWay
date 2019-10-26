@@ -16,7 +16,7 @@ for i in change:
 
 # here we are going to use empty list and later we extend it
 
-element = []
+element = []  
 
 for i in range(0, 6):
     print ("Adding %d to the list." %i)

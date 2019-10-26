@@ -16,7 +16,7 @@ print ("The numbers: ")
 
 for num in numbers:
     print (num)
-
+   
 
 # Here is output as observed from the terminal:
 '''

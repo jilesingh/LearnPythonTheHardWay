@@ -18,7 +18,7 @@ else:
 if animals[3] == 'kangaroo':
     print ("The animal at 3 is kangaroo.")
 else:
-    print ("Animal not found")
+    print ("Animal not found")   
 if animals[4] == 'whale':
     print ("The animal at 4 is whale.")
 else:
