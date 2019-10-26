@@ -28,7 +28,7 @@ if people <=dogs:
 if people == dogs:
     print("People are dogs.")
 
-# The following output is observed from the terminal:
+# Here is output as observed from the terminal:
 '''
 Too many cats! The world is doomed1
 People are less than or equal to dogs.

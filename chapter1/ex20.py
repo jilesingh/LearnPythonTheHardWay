@@ -36,7 +36,7 @@ current_line = current_line + 1
 print_a_line(current_line, current_file)
 
 
-# We get the output from the console as:
+# Here is output as observed from the terminal:
 '''
 First let's print the whole file:
 

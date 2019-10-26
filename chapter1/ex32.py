@@ -25,7 +25,7 @@ for i in range(0, 6):
 for i in element:
     print ("Element was: %d" % i)
 
-# Here is the output as observed from the terminal
+# Here is the output as observed from the terminal:
 '''
 This is count 1
 This is count 2

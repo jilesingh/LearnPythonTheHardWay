@@ -33,7 +33,7 @@ what = add(age, subtract(height, multiply(weight, divide(iq, 2))))
 print ("That becomes: ", what, "Can you do it by hand?")
 
 
-# We get following output in console:
+# Here is output as observed from the terminal:
 '''
 Let's do math with just functions!
 ADDING 30 + 5

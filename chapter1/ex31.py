@@ -36,7 +36,7 @@ else:
     print ("You stumble around and fall on a knife and die. Good job!")
 
 
-#Output is below as observed from the terminal
+# Here is output as observed from the terminal:
 '''
 You enter in a dark room with two doors. Do you go through door #1 or door #2
 >1

@@ -24,7 +24,7 @@ print ("And we can combine the two variables and the math")
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000) # inside function combining variables and math
 
 
-# We get the output from the console as:
+# Here is output as observed from the terminal:
 '''
 We can just give the numbers to function directly:
 You have 20 cheese

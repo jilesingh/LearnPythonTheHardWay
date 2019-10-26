@@ -25,7 +25,7 @@ else:
     print ("Fine, let's stay home then.")
 
 
-# The following output is observed from the terminal:
+# Here is output as observed from the terminal:
 '''
 We should take cars.
 May be we could take the buses.

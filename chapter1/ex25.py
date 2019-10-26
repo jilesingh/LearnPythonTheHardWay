@@ -32,7 +32,7 @@ def print_first_and_last_sorted(sentence): # sorts the words and then print firs
     print_first_word(words)
     print_last_word(words)
 
-# Output is as follows as observed from the terminal:
+# Here is output as observed from the terminal:
 '''
 >>> import ex25
 >>> sentence = "All good things happen to those who wait."

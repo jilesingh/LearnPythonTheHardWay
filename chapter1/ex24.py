@@ -32,7 +32,7 @@ start_point = start_point / 10
 print ("We can also do this way:")
 print ("We would have %d beans, %d jars and %d crates." % secret_formula(start_point))
 
-# Here is the output as observed from the terminal
+# Here is the output as observed from the terminal:
 '''
 Let's practice everything.
 You'd need to know 'bout escapes with \ that do 

@@ -29,7 +29,7 @@ out_file.close()
 in_file.close()
 
 
-# Output can be seen from the console as:
+# Here is output as observed from the terminal:
 '''
 Copying from test.txt to new_file.txt
 The input file is 21 bytes long 

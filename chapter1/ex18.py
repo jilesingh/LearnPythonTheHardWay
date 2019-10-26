@@ -25,7 +25,7 @@ print_one("Jile!")
 print_none()
 
 
-# We got the output from the console like this:
+# Here is output as observed from the terminal:
 '''
 arg1: 'Jile', arg2: 'Singh'
 arg1: 'Jile', arg2: 'Singh'

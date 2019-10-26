@@ -18,7 +18,7 @@ for num in numbers:
     print (num)
 
 
-# Here is output as observed from the terminal.
+# Here is output as observed from the terminal:
 '''
 At the top i is 0
 Numbers now: [0]
