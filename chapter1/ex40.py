@@ -32,7 +32,7 @@ happy_diwali.sing_me_a_song()
 rainy_day.sing_me_a_song()
 
 
-#Here is output as observed from the terminal:
+# Here is output as observed from the terminal:
 '''
 Happy birthday to you
 I don't want to get sued
