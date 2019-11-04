@@ -34,5 +34,26 @@ print("\nIn this case filter ius going to return only even number.")
 print(list(filter(check_even, my_num)))
 
 # print the reverse of the names
-print("\nHere we are going to print the revrse of the list names:")
+print("\nHere we are going to print the revrse of the names present in the list names:")
 print(list(map(lambda x:x[::-1], names)))
+
+
+# Here is output as observed from the terminal:
+'''
+[1, 4, 9, 16, 25, 36]
+1
+4
+9
+16
+25
+36
+
+If length is even its returning Even else first letter.
+['Even', 'E', 'S']
+
+In this case filter ius going to return only even number.
+[2, 4, 6]
+
+Here we are going to print the revrse of the names present in the list names:
+['ydnA', 'evE', 'yllaS']
+'''
