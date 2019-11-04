@@ -149,6 +149,67 @@ def start():
         start()
 
 start()
+
+
+# Here is output as observed from the terminal:
+'''
+Select numbers according to your choice to perform different mathematical functions:
+        addition                                    -->> 1
+        subtraction                                 -->> 2
+        multiplication                              -->> 3
+        division                                    -->> 4
+        remainder                                   -->> 5
+        even numbers upto a  number of your choice  -->> 6
+        odd numbers upto a number of your choice    -->> 7
+        divide by 3                                 -->> 8
+        dicide by 5                                 -->> 9
+
+        
+>1
+Enter first number: 2
+Enter second number: 3
+Sum of 2 and 3 is: 5
+
+
+Choose number to continue doing maths or CTRL+C to abort
+
+        Select numbers according to your choice to perform different mathematical functions:
+        addition                                    -->> 1
+        subtraction                                 -->> 2
+        multiplication                              -->> 3
+        division                                    -->> 4
+        remainder                                   -->> 5
+        even numbers upto a  number of your choice  -->> 6
+        odd numbers upto a number of your choice    -->> 7
+        divide by 3                                 -->> 8
+        dicide by 5                                 -->> 9
+
+        
+>7
+Enter the number upto you want to find odd numbers: 10
+Odd numbers are: 1
+Odd numbers are: 3
+Odd numbers are: 5
+Odd numbers are: 7
+Odd numbers are: 9
+
+
+Choose number to continue or CTRL+C to abort
+
+        Select numbers according to your choice to perform different mathematical functions:
+        addition                                    -->> 1
+        subtraction                                 -->> 2
+        multiplication                              -->> 3
+        division                                    -->> 4
+        remainder                                   -->> 5
+        even numbers upto a  number of your choice  -->> 6
+        odd numbers upto a number of your choice    -->> 7
+        divide by 3                                 -->> 8
+        dicide by 5                                 -->> 9
+
+        
+>
+'''
     
         
 
