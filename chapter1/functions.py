@@ -208,6 +208,42 @@ Choose number to continue or CTRL+C to abort
         dicide by 5                                 -->> 9
 
         
+>9
+Enter the number upto you want to find divisible by 5: 100
+Numbers divisible by 5 are: 5
+Numbers divisible by 5 are: 10
+Numbers divisible by 5 are: 15
+Numbers divisible by 5 are: 20
+Numbers divisible by 5 are: 25
+Numbers divisible by 5 are: 30
+Numbers divisible by 5 are: 35
+Numbers divisible by 5 are: 40
+Numbers divisible by 5 are: 45
+Numbers divisible by 5 are: 50
+Numbers divisible by 5 are: 55
+Numbers divisible by 5 are: 60
+Numbers divisible by 5 are: 65
+Numbers divisible by 5 are: 70
+Numbers divisible by 5 are: 75
+Numbers divisible by 5 are: 80
+Numbers divisible by 5 are: 85
+Numbers divisible by 5 are: 90
+Numbers divisible by 5 are: 95
+
+
+Choose number to continue or CTRL+C to abort
+
+        Select numbers according to your choice to perform different mathematical functions:
+        addition                                    -->> 1
+        subtraction                                 -->> 2
+        multiplication                              -->> 3
+        division                                    -->> 4
+        remainder                                   -->> 5
+        even numbers upto a  number of your choice  -->> 6
+        odd numbers upto a number of your choice    -->> 7
+        divide by 3                                 -->> 8
+        dicide by 5                                 -->> 9
+
 >
 '''
     
